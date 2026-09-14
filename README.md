@@ -3,7 +3,6 @@
 Real-time sign-language alphabet recognition from a webcam using a pretrained
 Hugging Face EfficientNet-B0 image-classification model.
 
-
 > **Important:** The current model recognizes the **American Sign Language (ASL)
 > alphabet**, not Rwanda Sign Language (RSL). It is used only as an initial
 > baseline. RSL-specific fine-tuning and training are planned for a later stage.
